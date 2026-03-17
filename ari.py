@@ -1,3 +1,5 @@
+#Simple Arithmetic Calculator (Task 1)
+
 import sys
 
 print("This is a basic arithmentic calculator")
